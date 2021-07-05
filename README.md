@@ -6,6 +6,6 @@
 
 - [不对不说 vite 是革命性的](https://mp.weixin.qq.com/s/maf7jdFkXlnyJ08n9QVeng)
 
-### 犹大关于 vite 的分享资源合集
+### 尤大关于 vite 分享资源合集
 
 - [GMDC全球开发大会分享](https://mp.weixin.qq.com/s/dvNAjUXvIcI89iUGX-by2g)
