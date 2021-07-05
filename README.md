@@ -5,6 +5,7 @@
 ### 为啥要学 vite
 
 - [不对不说 vite 是革命性的](https://mp.weixin.qq.com/s/maf7jdFkXlnyJ08n9QVeng)
+- [vite 的好与坏](https://mp.weixin.qq.com/s/9KAEnjyrWLUrrvvwB9wj0A)
 
 ### 尤大关于 vite 分享资源合集
 
