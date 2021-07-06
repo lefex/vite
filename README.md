@@ -6,6 +6,7 @@
 
 - [Announcing vite 2.0](https://dev.to/yyx990803/announcing-vite-2-0-2f0a)
 
+
 ### 为啥要学 vite
 
 - [不对不说 vite 是革命性的](https://mp.weixin.qq.com/s/maf7jdFkXlnyJ08n9QVeng)
