@@ -1,6 +1,6 @@
 # 拥抱下一代构建工具 vite
 
-[vite](https://vitejs.dev/) 的出现把前端构建推向了下一代，它优异的表现，征服了众多前端开发者。自从我写了第一个 vite demo 后，毅然决定拥抱 vite。这个项目的目的是能够让想学习 vite 的同学少走一些弯路，把全网最优秀的资源汇总到这里。关于 vite 的问题，可以直接在 [这里](https://github.com/lefex/vite/issues) 讨论，如果关于 vite 有任何问题可以留言，我们共同探讨。
+[vite](https://vitejs.dev/) 的出现把前端构建推向了下一代，它优异的表现，征服了众多前端开发者。自从我写了第一个 vite demo 后，毅然决定拥抱 vite。这个项目的目的是能够让想学习 vite 的同学少走一些弯路，把全网最优秀的资源汇总到这里。关于 vite 的问题，可以直接在 [这里](https://github.com/lefex/vite/issues) 留言，我们共同探讨。
 
 ### vite 历史与起源
 
