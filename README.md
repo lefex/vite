@@ -5,6 +5,7 @@
 ### vite 历史与起源
 
 - [Announcing vite 2.0](https://dev.to/yyx990803/announcing-vite-2-0-2f0a)
+- [更新历史](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 
 
 ### 为啥要学 vite
